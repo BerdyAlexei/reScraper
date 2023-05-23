@@ -1,0 +1,91 @@
+QWidget {
+    background-color: #2E3440;
+    border: 1px solid #CDDDE8;
+}
+
+QProgressBar {
+    background-color: #2E3440;
+    border: 1px solid #CDDDE8;
+
+}
+
+QProgressBar::chunk {
+    background-color: #81A1C1;
+    width: 20px;
+}
+
+QLabel {
+    border: none;
+    background-color: none;
+    color: #CDDDE8;
+
+}
+
+QToolTip {
+    background-color: #CDDDE8;
+    color: #2E3440;
+    border: 1px solid #2E3440;
+    padding: 6px;
+
+}
+
+QProgressBar {
+    text-align: center;
+
+}
+
+QPushButton  {
+    background-color: #CDDDE8;
+    color: #2E3440;
+    border: none;
+    padding: 6px;
+
+}
+
+QPushButton:disabled {
+    background-color: #2E3440;
+    color: #CDDDE8;
+    border: none;
+    padding: 6px;
+
+}
+
+QLineEdit  {
+    background-color: #CDDDE8;
+    color: #2E3440;
+    border: none;
+    padding: 6px;
+
+}
+
+QComboBox  {
+    background-color: #CDDDE8;
+    color: #2E3440;
+    border: none;
+    padding: 6px;
+
+}
+
+QComboBox QAbstractItemView {
+    background-color: #CDDDE8;
+    color: #2E3440;
+    outline: none;
+
+}
+
+QListView{
+    border: none;
+    color: 2E3440;
+    background-color: #CDDDE8;
+    selection-background-color: #2E3440;
+    selection-color: #CDDDE8;
+    show-decoration-selected: 0;
+
+}
+
+QComboBox::drop-down {
+    width: 0;
+    height: 0;
+    border: none;
+
+}

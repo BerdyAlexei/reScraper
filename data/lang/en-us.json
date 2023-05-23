@@ -1,0 +1,13 @@
+{
+    "toolTip": {
+        "searchText": "Text to search for",
+        "engineSelect": "Engine to search with",
+        "pageFrom": "Page to start the search",
+        "pageTo": "Page to end the search",
+        "addKeyword": "Add keyword (Separate each one with a comma)"
+    },
+
+    "copyRight": "\u00A9 2023 All Rights Reserved",
+    "startSearch": "Start",
+    "closeApplication": "Close"
+}
